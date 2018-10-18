@@ -1,12 +1,11 @@
 # FSAPAD Innovation
 This repo showcases the use of the following technologies:
-* Red Hat Fuse 7, 
+* Red Hat Fuse 7 - Camel, Apache CXF etc.
 * Spring boot
 * Apache Spark 2
 * PAM 7
 * AMQ Stream/Apache Kafka and
 * Decision 7  
-can work together.
 
 ## Use case description:
 Demonstrates the use of multiple choice of technologies to implement a registration system. The system comprises of 6 layers
