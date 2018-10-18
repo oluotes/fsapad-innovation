@@ -7,7 +7,7 @@ This repo showcases the use of the following technologies:
 * AMQ Stream/Apache Kafka and
 * Decision 7  
 
-## Use case description:
+## Use Case Description
 Demonstrates the use of multiple choice of technologies to implement a registration system. The system comprises of 6 layers
 - Layer 1: comprise of a Mobile App developed with Flutter and Dart, Web Client and Web Admin with AngularJS
 - Layer 2: Service API Gateway
@@ -15,7 +15,7 @@ Demonstrates the use of multiple choice of technologies to implement a registrat
 - Layer 4: Process and Decision engines
 - Layer 5: Data streaming and Intelligence layer which comprise of Apache Kafka and Spark 2
 
-## Task List:
+## To Do List
 - [ ] Upload the architectue diagram
 - [ ] create skeleton for various layers
 - [ ] Install the various technology locally
