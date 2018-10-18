@@ -10,6 +10,7 @@ Demonstrates the use of multiple choice of technologies to implement a registrat
 - Layer 5: Data streaming and Intelligence layer which comprise of Apache Kafka and Spark 2
 
 ## Task List:
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+- [ ] Upload the architectue diagram
+- [ ] create skeleton for various layers
+- [ ] Install the various technology locally
+- [ ] etc.
