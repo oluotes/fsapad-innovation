@@ -8,3 +8,8 @@ Demonstrates the use of multiple choice of technologies to implement a registrat
 - Layer 3: Swarm of Microservices
 - Layer 4: Process and Decision engines
 - Layer 5: Data streaming and Intelligence layer which comprise of Apache Kafka and Spark 2
+
+## Task List:
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
