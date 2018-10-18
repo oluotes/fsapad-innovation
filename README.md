@@ -20,3 +20,6 @@ Demonstrates the use of multiple choice of technologies to implement a registrat
 - [ ] create skeleton for various layers
 - [ ] Install the various technology locally
 - [ ] etc.
+
+
+## References
